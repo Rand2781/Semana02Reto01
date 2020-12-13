@@ -1,8 +1,9 @@
 input[type="submit"]
 {background:orange;
+color: white;
 border:0px solid;
 display: block;
 border-radius: 5px;
 padding: 8px 16px;
-width: 35%;
+width: 14.5%;
 }
